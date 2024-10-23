@@ -33,3 +33,4 @@ NOT_RED = (255, 0, 0)
 NOT_GREEN = (0, 255, 0)
 
 NOT_hit_sound_paths = os.listdir("sounds/hits")
+
