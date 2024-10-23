@@ -106,6 +106,7 @@ class Menu:
             else:
                 pygame.mixer.music.pause()
 
+
     def update_time(self, seconds, font=None):
         # Make a sound 1 second before it's time to change players
         if self.sound == ON and seconds == 1:
